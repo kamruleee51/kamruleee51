@@ -29,13 +29,14 @@ My work combines **deep learning**, **computer vision**, **geometric learning**,
 
 <!-- SCHOLAR_STATS_START -->
 
-📚 **Citations:** Loading...
+📚 **Citations:** **3142**
 
-📈 **h-index:** Loading...
+📈 **h-index:** **23**
 
-⭐ **i10-index:** Loading...
+⭐ **i10-index:** **29**
 
-🌍 **[Google Scholar](https://scholar.google.com/citations?user=36WXELIAAAAJ)**
+🌍 **Google Scholar**  
+https://scholar.google.com/citations?user=36WXELIAAAAJ
 
 <!-- SCHOLAR_STATS_END -->
 
