@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Md Kamrul Hasan
 
-<!--
-**kamruleee51/kamruleee51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Research Associate at Imperial College London
+🎓 PhD in Biomedical Engineering
+🤖 AI for Medical Imaging | Cardiac Ultrasound | MRI | Deep Learning
 
-Here are some ideas to get you started:
+## Research Interests
+- Medical Image Analysis
+- Cardiac AI
+- Foundation Models
+- 3D/4D Reconstruction
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- MedAI
+- Cardiac Motion Estimation
+- Mesh Foundation Models
+- AI-enabled Cardiac Phenotyping
+
+## Publications
+📚 Google Scholar: <link>
+
+## Website
+🌐 https://kamrul.github.io/MedAI/
+
+## Contact
+- LinkedIn
+- Google Scholar
+- Email
