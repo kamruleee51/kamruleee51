@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Kamrul Hasan
+# 👋 Hi, I'm Md Kamrul Hasan, PhD
 
 ### AI Researcher in Medical Imaging • Computer Vision • Foundation Models
 ### Department of Bioengineering, Imperial College London 🇬🇧
