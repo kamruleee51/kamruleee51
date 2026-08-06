@@ -48,17 +48,6 @@ https://scholar.google.com/citations?user=36WXELIAAAAJ
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🩺 **EchoViewer** | AI-powered platform for cardiac ultrasound visualisation, segmentation, and biomarker estimation |
-| 📦 **Mesh Foundation Models** | Learning robust shape representations from anatomical cardiac meshes |
-| ❤️ **Cardiac Motion Estimation** | Deep learning methods for cardiac motion estimation and image registration |
-| 📐 **4D Cardiac Reconstruction** | Sparse-view reconstruction of dynamic cardiac anatomy from ultrasound |
-
----
-
 ## 🎖 Awards
 
 - 🥇 **FoE EPSRC Postdoctoral Pathway Fellowship**
