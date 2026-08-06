@@ -1,0 +1,42 @@
+name: Update Google Scholar Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Runs daily at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install scholarly
+
+      - name: Update README
+        run: |
+          python update_scholar.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || (
+            git commit -m "Update Google Scholar metrics"
+            git push
+          )
