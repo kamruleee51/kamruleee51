@@ -9,16 +9,6 @@ I am an AI researcher developing **trustworthy and clinically relevant machine l
 
 My work combines **deep learning**, **computer vision**, **geometric learning**, and **biomedical engineering** to bridge cutting-edge AI research with real-world clinical applications.
 
----
-
-## 🔬 Current Position
-
-🎓 **FoE EPSRC Postdoctoral Pathway Fellow**  
-🏛 **Department of Bioengineering, Imperial College London**
-
-👨‍🔬 **Research Mentors**
-- Dr. Choon Hwai Yap
-- Prof. Guang Yang
 
 ---
 
@@ -40,12 +30,14 @@ My work combines **deep learning**, **computer vision**, **geometric learning**,
 🌍 **Google Scholar**  
 https://scholar.google.com/citations?hl=en&user=36WXELIAAAAJ&view_op=list_works&sortby=pubdate
 
+![Citations](https://img.shields.io/badge/Citations-3225-blue?style=for-the-badge)
+![h-index](https://img.shields.io/badge/h--index-23-success?style=for-the-badge)
+![i10-index](https://img.shields.io/badge/i10--index-29-orange?style=for-the-badge)
+
 📄 **Selected Publication Venues**
 
 - IEEE Transactions on Medical Imaging (TMI)
 - Medical Image Analysis (MedIA)
-- AI in Medicine
-- Computers in Biology and Medicine
 - MICCAI
 
 ---
