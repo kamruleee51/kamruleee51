@@ -1,26 +1,22 @@
 # 👋 Hi, I'm Md Kamrul Hasan
 
 ### AI Researcher in Medical Imaging • Computer Vision • Foundation Models
-### Imperial College London 🇬🇧
+### Department of Bioengineering, Imperial College London 🇬🇧
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=kamruleee51&show_icons=true&hide_border=true" />
 
-I develop **AI methods for medical imaging**, focusing on cardiac ultrasound, MRI, 3D/4D reconstruction,
-foundation models, and computational cardiology.
+I am an AI researcher developing **trustworthy and clinically relevant machine learning methods** for medical imaging. My research focuses on **cardiac ultrasound**, **cardiac MRI**, **3D/4D reconstruction**, **foundation models**, and **computational cardiology**, with the goal of improving cardiovascular diagnosis and expanding global access to advanced imaging technologies.
 
-My research combines **deep learning**, **computer vision**, **geometric learning**, and **biomedical engineering**
-to develop clinically useful AI systems for cardiovascular diagnosis.
+My work combines **deep learning**, **computer vision**, **geometric learning**, and **biomedical engineering** to bridge cutting-edge AI research with real-world clinical applications.
 
 ---
 
 ## 🔬 Current Position
 
 🎓 **FoE EPSRC Postdoctoral Pathway Fellow**  
-Imperial College London
+🏛 **Department of Bioengineering, Imperial College London**
 
-🏛 Department of Bioengineering
-
-👨‍🔬 Working with
+👨‍🔬 **Research Mentors**
 - Dr. Choon Hwai Yap
 - Prof. Guang Yang
 
@@ -28,78 +24,29 @@ Imperial College London
 
 ## ❤️ Research Interests
 
-🫀 Cardiac AI
-
-📈 Medical Image Analysis
-
-🧠 Foundation Models
-
-📷 Ultrasound
-
-🩻 MRI
-
-📦 Representation Learning
-
-🕸 Mesh Learning
-
-📐 3D/4D Reconstruction
-
-🫀 Cardiac Motion Estimation
-
-🧬 Computational Cardiology
-
----
-
-## 🚀 Current Research
-
-- AI-enabled Point-of-Care Ultrasound
-- Foundation Models for Cardiac Imaging
-- Shape & Motion Representation Learning
-- Mesh Autoencoders
-- Cardiac Digital Twins
-- Image Registration
-- Geometry-aware Deep Learning
+- 🫀 Cardiac AI (Ultrasound & MRI)
+- 📈 Medical Image Analysis
+- 🧠 Foundation Models for Medical Imaging
+- 📦 Representation Learning
+- 🕸 Geometric & Mesh Learning
+- 📐 3D/4D Cardiac Reconstruction
+- 🔄 Motion Estimation & Image Registration
+- 🧬 Computational Cardiology
 
 ---
 
 ## 📊 Research Highlights
 
-🏆 3,225+ Citations
+🌍 **Google Scholar**  
+https://scholar.google.com/citations?hl=en&user=36WXELIAAAAJ&view_op=list_works&sortby=pubdate
 
-📚 h-index: 23
+📄 **Selected Publication Venues**
 
-📈 i10-index: 29
-
-📄 Publications in
-
-- IEEE Transactions on Medical Imaging
-- Medical Image Analysis
+- IEEE Transactions on Medical Imaging (TMI)
+- Medical Image Analysis (MedIA)
 - AI in Medicine
 - Computers in Biology and Medicine
 - MICCAI
-
----
-
-## 🌍 Open Science
-
-### 🫀 FeEcho4D
-
-First public benchmark for **4D fetal echocardiography**
-including spatiotemporal annotations and 4D meshes.
-
----
-
-### 🔬 ART-Net
-
-Large-scale laparoscopic surgical tool dataset
-for detection, segmentation and pose estimation.
-
----
-
-### 🧠 FUGC
-
-Contributor to the ISBI Grand Challenge
-for fetal ultrasound segmentation.
 
 ---
 
@@ -107,76 +54,36 @@ for fetal ultrasound segmentation.
 
 | Project | Description |
 |----------|-------------|
-| 🫀 MedAI | Medical imaging toolbox |
-| 🩺 EchoViewer | Clinical cardiac ultrasound viewer |
-| 📦 Mesh Foundation Models | Learning cardiac shape representations |
-| ❤️ Cardiac Motion Estimation | Registration & deformation learning |
-| 📐 4D Reconstruction | Sparse-view ultrasound reconstruction |
-
----
-
-## 🛠 Technical Stack
-
-### AI
-
-PyTorch • MONAI • TensorFlow • OpenCV
-
-### Vision
-
-CNN • Transformers • Diffusion • Representation Learning
-
-### Medical Imaging
-
-MRI • Ultrasound • CT • Image Registration
-
-### Geometry
-
-Meshes • Point Clouds • GNNs • GHD • Differentiable Rendering
+| 🩺 **EchoViewer** | AI-powered platform for cardiac ultrasound visualisation, segmentation, and biomarker estimation |
+| 📦 **Mesh Foundation Models** | Learning robust shape representations from anatomical cardiac meshes |
+| ❤️ **Cardiac Motion Estimation** | Deep learning methods for cardiac motion estimation and image registration |
+| 📐 **4D Cardiac Reconstruction** | Sparse-view reconstruction of dynamic cardiac anatomy from ultrasound |
 
 ---
 
 ## 🎖 Awards
 
-🥇 FoE EPSRC Postdoctoral Pathway Fellowship
-
-🥈 Runner-up Best Presentation (MICCAI ASMUS)
-
-🏅 Imperial EPSRC PhD Studentship
-
-🥇 Erasmus Mundus Scholarship
-
-🏅 University Gold Medal
-
----
-
-## 🌐 Links
-
-🌍 Website
-
-Google Scholar
-
-GitHub
-
-LinkedIn
-
-ORCID
-
-ResearchGate
+- 🥇 **FoE EPSRC Postdoctoral Pathway Fellowship**
+- 🥈 **Runner-up Best Presentation Award** (MICCAI ASMUS)
+- 🏅 **Imperial College EPSRC Doctoral Training Partnership Studentship**
+- 🥇 **Erasmus Mundus Joint Master's Scholarship**
+- 🏅 **University Gold Medal**
 
 ---
 
 ## 🤝 Collaboration
 
-I'm always interested in collaborating on
+I welcome collaborations in
 
-- Medical Imaging
+- Medical Image Analysis
 - AI for Healthcare
-- Foundation Models
 - Cardiac Imaging
-- Open-source medical AI
+- Foundation Models
+- Computer Vision
+- Open-source Medical AI
 
-Feel free to get in touch!
+Feel free to connect if you're interested in collaborating on research, open-source software, or clinical AI applications (kamruleeekuet@gmail.com, k.hasan22@imperial.ac.uk).
 
 ---
 
-> *"Building trustworthy AI to improve global access to cardiovascular healthcare."*
+> *"Building trustworthy AI to advance cardiovascular imaging and improve global access to healthcare."*
