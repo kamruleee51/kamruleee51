@@ -29,7 +29,7 @@ My work combines **deep learning**, **computer vision**, **geometric learning**,
 
 <!-- SCHOLAR_STATS_START -->
 
-📚 **Citations:** **3142**
+📚 **Citations:** **3143**
 
 📈 **h-index:** **23**
 
@@ -37,12 +37,6 @@ My work combines **deep learning**, **computer vision**, **geometric learning**,
 
 🌍 **Google Scholar**  
 https://scholar.google.com/citations?user=36WXELIAAAAJ
-
-📄 **Selected Publication Venues**
-
-- IEEE Transactions on Medical Imaging (TMI)
-- Medical Image Analysis (MedIA)
-- MICCAI
 
 <!-- SCHOLAR_STATS_END -->
 
