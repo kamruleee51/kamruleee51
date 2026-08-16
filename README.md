@@ -29,7 +29,7 @@ My work combines **deep learning**, **computer vision**, **geometric learning**,
 
 <!-- SCHOLAR_STATS_START -->
 
-📚 **Citations:** **3154**
+📚 **Citations:** **3164**
 
 📈 **h-index:** **23**
 
